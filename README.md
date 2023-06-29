@@ -34,11 +34,11 @@ Analysis
 
 The analysis in this project covers various aspects of the VUSA market, including:
 
-Calculating daily returns and cumulative returns of VUSA
-Analyzing price trends and volatility
-Examining trading volume patterns
-Identifying correlations and relationships with other market factors
-The code in the Jupyter Notebook performs data preprocessing, statistical calculations, and exploratory data analysis to derive meaningful insights from the VUSA market data.
+- Calculating daily returns and cumulative returns of VUSA
+- Analyzing price trends and volatility
+- Examining trading volume patterns
+- Identifying correlations and relationships with other market factors
+- The code in the Jupyter Notebook performs data preprocessing, statistical calculations, and exploratory data analysis to derive meaningful insights from the VUSA market data.
 
 Visualization
 
